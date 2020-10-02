@@ -43,7 +43,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 
 ## Mount
-
+This will be the mount that attaches on top of the base. It's a 120mm x 120mm square that has 4 symmetrical holes in the corners which are 10mm in diameter and 20mm away from each side and there's also one hole in the center of the square that's 25mm in diameter.
 ### Description
 
 ### Evidence
