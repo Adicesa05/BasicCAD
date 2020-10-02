@@ -51,8 +51,9 @@ This will be the mount that attaches on top of the base. It's a 120mm x 120mm sq
 ### Image
 <img src="https://github.com/Adicesa05/Images/blob/main/Mount.png" width="400">
 
-### Reflection
-aaa
+## Reflection
+An easier and faster way to build the mount is by drawing a verticle line on the base to make a 120mm x 120mm square and using the Use Tool and selecting the parts to extrude, after that extrude the part by 8mm selecting "new" so the part is separate from the base.
+
 ---
 
 
