@@ -26,7 +26,7 @@ This is how you will write image code for INTERNALLY STORED images on your repo.
 ~~~
 <img src="images/Base.jpg" alt="The Base" width="200">
 ~~~
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="500">
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
 
 ### Reflection
 
@@ -47,7 +47,7 @@ This will be the mount that attaches on top of the base. It's a 120mm x 120mm sq
 ### Description
 
 ### Evidence
-
+<img src="https://github.com/Adicesa05/Images/blob/main/Mount.png" width="400">
 ### Image
 
 ### Reflection
