@@ -62,7 +62,7 @@ An easier and faster way to build the mount is by drawing a verticle line on the
 ### Description
 
 ### Evidence
-
+[This will be the fork](https://cvilleschools.onshape.com/documents/59af1eb863a6936014b48452/w/9e151c8707c5dfc4d2ebde74/e/aa741dacae40c24785d1d18a)
 ### Image
 
 ### Reflection
@@ -75,7 +75,7 @@ An easier and faster way to build the mount is by drawing a verticle line on the
 ### Description
 
 ### Evidence
-
+[The tire will be in the same document as the wheel but different parts](https://cvilleschools.onshape.com/documents/a619828fb00e7c97e003d335/w/d594064e5640e8c8940c262d/e/9d9fd4e8bd0667ffbbad85e7)
 ### Image
 
 ### Reflection
@@ -88,7 +88,7 @@ An easier and faster way to build the mount is by drawing a verticle line on the
 ### Description
 
 ### Evidence
-
+[The tire will be in the same document as the wheel but different parts](https://cvilleschools.onshape.com/documents/a619828fb00e7c97e003d335/w/d594064e5640e8c8940c262d/e/9d9fd4e8bd0667ffbbad85e7)
 ### Image
 
 ### Reflection
@@ -101,7 +101,7 @@ An easier and faster way to build the mount is by drawing a verticle line on the
 ### Description
 
 ### Evidence
-
+[This will be the Axel, Collar and Bearings together](https://cvilleschools.onshape.com/documents/74c370696eeb7452f7d4c420/w/d904ad10829b73d5445f0911/e/5c862463e963d4c7f83e0215)
 ### Image
 
 ### Reflection
