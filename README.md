@@ -64,7 +64,7 @@ This will be the fork it is attacted to the axle and it is used to rotate the wh
 ### Evidence
 [This will be the fork](https://cvilleschools.onshape.com/documents/59af1eb863a6936014b48452/w/9e151c8707c5dfc4d2ebde74/e/aa741dacae40c24785d1d18a)
 ### Image
-
+<img src="https://github.com/Adicesa05/Images/blob/main/Fork.png" width="400">
 ### Reflection
 Make sure to mirror feature or you will have 2 bases inside of each other
 You can move a sketch that you may have made before an extrude to the surface of the extrude by dragging your sketch in the features to be below the extrude.
@@ -79,7 +79,7 @@ The tire will be attached on the wheel with an inner radius of 80mm and outer ra
 ### Evidence
 [The tire will be in the same document as the wheel but different parts](https://cvilleschools.onshape.com/documents/a619828fb00e7c97e003d335/w/d594064e5640e8c8940c262d/e/9d9fd4e8bd0667ffbbad85e7)
 ### Image
-
+<img src="https://github.com/Adicesa05/Images/blob/main/Tire.png" width="400">
 ### Reflection
 Make sure the two edges on the trapezoid are symmetrical and to use revolve instead of extrude.
 
@@ -93,7 +93,7 @@ The tire will be the part that holds the axle in the center hole. The radius of 
 ### Evidence
 [The tire will be in the same document as the wheel but different parts](https://cvilleschools.onshape.com/documents/a619828fb00e7c97e003d335/w/d594064e5640e8c8940c262d/e/9d9fd4e8bd0667ffbbad85e7)
 ### Image
-
+<img src="https://github.com/Adicesa05/Images/blob/main/Wheel.png" width="400">
 ### Reflection
 Make sure the outer edges on the sketch is symmetric to the middle line from the origin.
 For the sketch of the 5 holes of the wheel you can draw two lines from the origin and make them 60degrees apart and draw a three point arc from there.
@@ -108,7 +108,7 @@ These are the parts that will attach together and will go in the wheel.
 ### Evidence
 [This will be the Axel, Collar and Bearings together](https://cvilleschools.onshape.com/documents/74c370696eeb7452f7d4c420/w/d904ad10829b73d5445f0911/e/5c862463e963d4c7f83e0215)
 ### Image
-
+<img src="https://github.com/Adicesa05/Images/blob/main/Axel%2C%20Collar%2C%20Bearing.png" width="400">
 ### Reflection
 When you want to sketch on a specific part use the "use tool".
 
