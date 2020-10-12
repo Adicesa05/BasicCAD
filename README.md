@@ -115,6 +115,6 @@ These are the parts that will attach together and will go in the wheel.
 
 ### Reflection
 When you want to sketch on a specific part use the "use tool".
-
+You can start a new sketch on the axle to make the collar which makes a new part without going out to make another document.
 
 ---
