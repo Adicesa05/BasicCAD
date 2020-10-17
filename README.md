@@ -12,6 +12,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub Assembly](#Sub-Assembly)
+* [Assembly](#Assembly)
 
 ## Base
 
@@ -136,3 +137,17 @@ This will be the Wheel,Tire,Axel,Collar, and Bearing together.
 You can hide parts by clicking on the icon with an eye to make it easier to select parts to mate.
 
 ---
+
+## Assembly
+
+### Description
+This will be all the parts together with some screws and bolts.
+
+### Evidence
+https://cvilleschools.onshape.com/documents/cbca44a0bf64a4b7b839843d/w/13f364d919995fdb93a050b7/e/158429d15b48daf7a38420e7
+
+### Image
+<img src="https://github.com/Adicesa05/Images/blob/main/Assembly.png" width="400">
+
+### Reflection
+When you make a mistake on a part you have to update it and make a new version on the assembly to update it to the new one.
