@@ -128,7 +128,7 @@ This will be the Wheel,Tire,Axel,Collar, and Bearing together.
 (https://cvilleschools.onshape.com/documents/a619828fb00e7c97e003d335/w/d594064e5640e8c8940c262d/e/d3e74de501d3e7bf1f6b9b4f)
 ### Image
 <img src="https://github.com/Adicesa05/Images/blob/main/Subassembly.png" width="400">
-### Reflection
 
-All the parts have the two edges and the center when you try to mate, you can hide parts by clicking on the eye icon so you can select some parts to mate easier.
+### Reflection
+when you want
 ---
