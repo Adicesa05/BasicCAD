@@ -143,7 +143,7 @@ You can hide parts by clicking on the icon with an eye to make it easier to sele
 This will be all the parts together with some screws and bolts.
 
 ### Evidence
-[This is the final assembly]https://cvilleschools.onshape.com/documents/cbca44a0bf64a4b7b839843d/w/13f364d919995fdb93a050b7/e/158429d15b48daf7a38420e7
+[This is the final assembly](https://cvilleschools.onshape.com/documents/cbca44a0bf64a4b7b839843d/w/13f364d919995fdb93a050b7/e/158429d15b48daf7a38420e7)
 
 ### Image
 <img src="https://github.com/Adicesa05/Images/blob/main/Assembly.png" width="400">
