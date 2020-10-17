@@ -126,8 +126,7 @@ You can start a new sketch on the axle to make the collar which makes a new part
 This will be the Wheel,Tire,Axel,Collar, and Bearing together.
 
 ### Evidence
-[The assembly is on the third page of the document.]
-(https://cvilleschools.onshape.com/documents/a619828fb00e7c97e003d335/w/d594064e5640e8c8940c262d/e/d3e74de501d3e7bf1f6b9b4f)
+[The assembly is on the third page of the document](https://cvilleschools.onshape.com/documents/a619828fb00e7c97e003d335/w/d594064e5640e8c8940c262d/e/d3e74de501d3e7bf1f6b9b4f)
 
 ### Image
 <img src="https://github.com/Adicesa05/Images/blob/main/Subassembly.png" width="400">
@@ -144,7 +143,7 @@ You can hide parts by clicking on the icon with an eye to make it easier to sele
 This will be all the parts together with some screws and bolts.
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/cbca44a0bf64a4b7b839843d/w/13f364d919995fdb93a050b7/e/158429d15b48daf7a38420e7
+[This is the final assembly]https://cvilleschools.onshape.com/documents/cbca44a0bf64a4b7b839843d/w/13f364d919995fdb93a050b7/e/158429d15b48daf7a38420e7
 
 ### Image
 <img src="https://github.com/Adicesa05/Images/blob/main/Assembly.png" width="400">
